@@ -1,0 +1,25 @@
+{
+  "name": "fortune-cookie",
+  "description": "Proyecto final de PAW",
+  "main": "server.js",
+  "authors": [
+    "uriel"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Server"
+  ],
+  "homepage": "https://github.com/urielgm/proyecto-final-paw",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
